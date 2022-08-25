@@ -1,5 +1,9 @@
 # Web3RSVP-frontend
 
+Sample project during the ("30 Days of Web3")[https://www.30daysofweb3.xyz/] course
+
+
+
 ### Fork and clone the repo from Github to work with it locally
 
 1. Click the "Fork" button
